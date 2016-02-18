@@ -1,0 +1,30 @@
+BJsales
+
+R Documentation
+
+## Sales Data with Leading Indicator
+
+### Description
+
+The sales time series `BJsales` and leading indicator `BJsales.lead` each
+contain 150 observations. The objects are of class `"ts"`.
+
+### Usage
+
+    
+    BJsales
+    BJsales.lead
+
+### Source
+
+The data are given in Box & Jenkins (1976). Obtained from the Time Series Data
+Library at <http://www-personal.buseco.monash.edu.au/~hyndman/TSDL/>
+
+### References
+
+G. E. P. Box and G. M. Jenkins (1976): _Time Series Analysis, Forecasting and
+Control_, Holden-Day, San Francisco, p. 537.
+
+P. J. Brockwell and R. A. Davis (1991): _Time Series: Theory and Methods_,
+Second edition, Springer Verlag, NY, pp. 414.
+
